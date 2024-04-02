@@ -1,4 +1,4 @@
-# Software_3D_engine
+# 3D Game Engine
 Python Software 3D Engine (Object Renderer) with Pygame, Numpy, Numba
 
 
